@@ -1,6 +1,5 @@
 --[[
-    Prison Life Script created by Bizaare#0155
-    Comissions closed
+    Prison Life Script created by Bizaare#0155 (now @leavix on discord)
 ]]--
 
 -- Team initializations & assignments
